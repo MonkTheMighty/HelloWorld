@@ -1,2 +1,4 @@
 # HelloWorld
-Frist GitHub
+First GitHub
+Here are some edits
+
